@@ -61,7 +61,7 @@ Breaking & Entering (B&E)
 
 Gun Homicide
 
-Interactive Filters:
+#Interactive Filters:
 
 District
 
