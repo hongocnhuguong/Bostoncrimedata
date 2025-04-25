@@ -2,7 +2,7 @@
 Introduction
 This project analyzes crime data in the city of Boston from the year 2015, building an interactive dashboard to explore trends and key characteristics of crime activities.
 
-The dashboard is designed to:
+#The dashboard is designed to:
 
 Track the number of offenses and shootings over time.
 
@@ -12,12 +12,9 @@ Identify the top 5 most common offense types.
 
 Monitor serious crime trends such as Arson, Breaking & Entering (B&E), and Gun Homicide.
 
-Dataset
-File name: 2015.csv
+#Data source: Public dataset from the City of Boston.
 
-Data source: Public dataset from the City of Boston.
-
-Key features include:
+#Key features include:
 
 Incident number
 
@@ -33,7 +30,7 @@ UCR Part classification
 
 Geographic information (Street, Latitude, Longitude)
 
-Dashboard Overview
+#Dashboard Overview
 The dashboard includes the following main components:
 
 Offense by Year:
